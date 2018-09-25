@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="search_title">Search</string>
+    <string name="app_name">RemindMe_beta</string>
+    <string name="search_title">Поиск</string>
+    <string name="notification_title">Напоминания</string>
+    <string name="open">Открыть</string>
+    <string name="close">Закрыть</string>
 </resources>
