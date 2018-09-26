@@ -5,4 +5,8 @@
     <string name="notification_title">Напоминания</string>
     <string name="open">Открыть</string>
     <string name="close">Закрыть</string>
+    <string name="history">История</string>
+    <string name="ideas">Идеи</string>
+    <string name="todo">Сделать</string>
+    <string name="birthdays">Дни рождения</string>
 </resources>

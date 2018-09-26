@@ -4,4 +4,8 @@
     <string name="notification_title">Notifications</string>
     <string name="open">Open</string>
     <string name="close">Close</string>
+    <string name="history">History</string>
+    <string name="ideas">Ideas</string>
+    <string name="todo">TODO</string>
+    <string name="birthdays">Birthdays</string>
 </resources>
